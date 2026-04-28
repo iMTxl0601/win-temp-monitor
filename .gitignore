@@ -1,0 +1,33 @@
+# Go build
+bin/
+build/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go test
+*.test
+*.out
+
+# Logs
+*.log
+
+# Env
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+tmp/
+temp/
+
+# Cache
+*.cache
