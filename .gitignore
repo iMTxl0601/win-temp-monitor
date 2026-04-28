@@ -2,10 +2,6 @@
 bin/
 build/
 dist/
-*.exe
-*.dll
-*.so
-*.dylib
 
 # Go test
 *.test
